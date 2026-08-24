@@ -6,8 +6,6 @@
 
 A physics-informed AI initiative to predict how defects form, evolve, and shape the electrical, thermal, and mechanical performance of next-generation microelectronics.
 
-[**Explore AI-DINO →**](https://github.com/AlphaFold-for-Microelectronics/AI-DINO)
-
 </div>
 
 ---
@@ -35,11 +33,13 @@ Heterogeneous integration is rapidly increasing the number and complexity of int
 
 The effort draws on capabilities across DOE user facilities and leadership computing centers, spanning atomic-resolution microscopy, coherent X-ray methods, spectroscopy, device measurements, and simulations from electronic structure to continuum scales.
 
-## Open development
+## Repository overview
 
-### [AI-DINO](https://github.com/AlphaFold-for-Microelectronics/AI-DINO)
+This organization will host a growing set of complementary tools and models. Each repository covers one part of the broader framework.
 
-Our first public codebase provides a shared space for developing AI-enabled approaches for microelectronics and connecting them with the broader scientific community.
+| Repository | Role in the project |
+|---|---|
+| [**AI-DINO**](https://github.com/AlphaFold-for-Microelectronics/AI-DINO) | **AI for Dynamic Imaging of Nanoscale Objects.** A differentiable, GPU-accelerated PyTorch framework for simulating Bragg coherent diffraction imaging from crystalline nanostructures, with direct and FFT scattering methods designed for optimization and machine-learning workflows. |
 
 ---
 
