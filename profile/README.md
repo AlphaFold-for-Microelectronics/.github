@@ -31,6 +31,12 @@ Heterogeneous integration is rapidly increasing the number and complexity of int
 3. **Guide new experiments** through uncertainty-aware active learning and multi-fidelity optimization.
 4. **Identify mechanisms—not just correlations** using causal models of defect–field–functionality relationships.
 
+<p align="center">
+  <img src="./assets/figure-4-ai-framework.png" alt="Framework connecting multimodal data fusion, physics-informed prediction, active learning, and causal discovery" width="100%">
+</p>
+
+<p align="center"><em>Figure 4. Four core components of the proposed framework: integration and curation of heterogeneous datasets, refined physics-informed AI methods, active learning-guided discovery, and causal learning of defect–property relationships.</em></p>
+
 The effort draws on capabilities across DOE user facilities and leadership computing centers, spanning atomic-resolution microscopy, coherent X-ray methods, spectroscopy, device measurements, and simulations from electronic structure to continuum scales.
 
 ## Repository overview
